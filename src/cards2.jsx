@@ -21,6 +21,18 @@ import Sum from "./images/pexels-photo-207247.jpeg";
 const Ashoak = ()=>{
     return(
       <>
+         <center>
+      <h1><i>Designer Gaurav joshi</i></h1>
+     
+      <div className="gaurav8">
+      <img
+      className="d-block w-100"
+      src={yoo}
+      alt="First slide"
+      
+    /> 
+      </div>
+      </center>
 <Navbar bg="primary" expand="lg">
   <Container>
     <Navbar.Brand href="#home"></Navbar.Brand>
