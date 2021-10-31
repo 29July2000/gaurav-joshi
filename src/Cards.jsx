@@ -38,7 +38,7 @@ const Rohit = ()=>{
         <Nav.Link href="#link"><b>Boarding</b></Nav.Link>
         <Nav.Link href="#link"><b>Take a tour</b></Nav.Link>
         <Nav.Link href="#link"><b>Employment</b></Nav.Link>
-        <Nav.Link href="#link"><b>FAQ</b></Nav.Link>
+        <Nav.Link href="#link"><b>Gaurav</b></Nav.Link>
       </Nav>
     </Navbar.Collapse>
   </Container>
