@@ -27,7 +27,7 @@ const Ashoak = ()=>{
       <div className="gaurav8">
       <img
       className="d-block w-100"
-      src={yoo}
+      src={sum}
       alt="First slide"
       
     /> 
